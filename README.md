@@ -5,5 +5,5 @@ see the example here:
 
 ![example](https://github.com/h9nt/generate-recaptcha-token/assets/63129066/a2011278-cb5d-42d7-90fd-956daebdec30)
 
-`python`
+`start with pip install h9nt and enjoy `
 
