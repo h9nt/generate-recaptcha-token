@@ -7,3 +7,5 @@ see the example here:
 
 `start with pip install h9nt and enjoy `
 
+> works mostly good with enterprise / v2, v3 (invisible version) 
+
